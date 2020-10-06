@@ -1,2 +1,2 @@
-# jfx-project-generator
-javafx project bootstrapper
+# JavaFX Project Generator
+javafx project generator
